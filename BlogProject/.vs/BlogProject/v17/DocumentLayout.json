@@ -4,24 +4,24 @@
 <<<<<<< Updated upstream
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\blog\\blogproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\blog\\blogproject\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|solutionrelative:services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\ViewModels\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\blog\\blogproject\\viewmodels\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|solutionrelative:viewmodels\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\Services\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\blog\\blogproject\\enums\\blogroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|solutionrelative:enums\\blogroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\Enums\\BlogRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enums\\BlogRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\blog\\blogproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
 =======
@@ -39,7 +39,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\ViewModels\\EmailSettings.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmailSettings.cs",
@@ -47,12 +47,11 @@
               "RelativeToolTip": "ViewModels\\EmailSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:20:49.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T04:20:49.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\Services\\DataService.cs",
               "RelativeDocumentMoniker": "Services\\DataService.cs",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Services\\DataService.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwDcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:00:29.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T04:00:29.076Z"
             },
             {
               "$type": "Document",
@@ -95,7 +93,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T21:06:30.645Z",
               "EditorCaption": ""

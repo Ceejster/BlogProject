@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Views",
-    "\\Views\\Shared"
+    "\\Views"
   ],
-  "SelectedNode": "\\BlogProject.sln",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
