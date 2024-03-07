@@ -3,7 +3,7 @@
     "",
     "\\Controllers",
     "\\Views",
-    "\\Views\\Posts"
+    "\\Views\\Shared"
   ],
   "SelectedNode": "\\BlogProject.sln",
   "PreviewInSolutionExplorer": false

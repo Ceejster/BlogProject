@@ -577,3 +577,7 @@ C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\Coder
 C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\obj\Debug\net8.0\BlogProject.pdb
 C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\obj\Debug\net8.0\BlogProject.genruntimeconfig.cache
 C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\obj\Debug\net8.0\ref\BlogProject.dll
+C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\obj\Debug\net8.0\BlogProject.sourcelink.json
+C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\bin\Debug\net8.0\MailKit.dll
+C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\CoderFoundry\Blog\BlogProject\bin\Debug\net8.0\MimeKit.dll

@@ -1,8 +1,11 @@
 using BlogProject.Data;
 using BlogProject.Models;
+using BlogProject.Services;
+using BlogProject.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +23,13 @@ builder.Services.AddIdentity<BlogUser, IdentityRole>(options => options.SignIn.R
     .AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+//Register our custom DataService class
+builder.Services.AddScoped<DataService>();
+
+//register a preconfigured instance of the EmailSetting class
+builder.Configuration.GetSection("EmailSettings");
+builder.Services.AddScoped<IBlogEmailSender, EmailService>();
 
 var app = builder.Build();
 

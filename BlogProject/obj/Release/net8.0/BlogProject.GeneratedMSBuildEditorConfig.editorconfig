@@ -214,16 +214,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Comments/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Comments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Comments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Home/Index.cshtml]
@@ -264,26 +268,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Tags/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Tags/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Tags/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Tags/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/Tags/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CjBow/OneDrive/Documents/Coding/Projects/source/repos/C\# Projects/CoderFoundry/Blog/BlogProject/Views/_ViewImports.cshtml]
