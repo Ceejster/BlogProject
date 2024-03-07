@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\BlogProject.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\wwwroot\\css\\assets\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\wwwroot\\css\\assets\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\wwwroot\\css\\assets\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\wwwroot\\css\\assets\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\wwwroot\\css\\assets\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\post-sample-image.jpg"
+    },
+    {
       "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

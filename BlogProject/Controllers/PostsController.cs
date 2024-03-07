@@ -38,10 +38,11 @@ namespace BlogProject.Controllers
                 .Include(p => p.Blog)
                 .Include(p => p.BlogUser)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (post == null)
-            {
-                return NotFound();
-            }
+
+            //if (post == null)
+            //{
+            //    return NotFound();
+            //}
 
             return View(post);
         }

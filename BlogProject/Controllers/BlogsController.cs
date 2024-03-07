@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BlogProject.Data;
 using BlogProject.Models;
-using BlogProject.Services.Interfaces;
+
 
 namespace BlogProject.Controllers
 {
