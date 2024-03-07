@@ -1,6 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\Blog\\BlogProject\\",
+<<<<<<< Updated upstream
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\blog\\blogproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +24,14 @@
       "RelativeMoniker": "D:0:0:{F9D0DF16-C7CC-40C8-939E-55536E5FF4F7}|BlogProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+=======
+  "Documents": [],
+>>>>>>> Stashed changes
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< Updated upstream
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -98,6 +103,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> Stashed changes
     }
   ]
 }
